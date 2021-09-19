@@ -14,7 +14,7 @@
     <name>hack</name>
     <description>hack</description>
     <properties>
-        <java.version>16</java.version>
+        <java.version>11</java.version>
         <repackage.classifier/>
         <spring-native.version>0.10.3</spring-native.version>
     </properties>
